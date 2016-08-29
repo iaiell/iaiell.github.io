@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+I am a Data Scientist living in New York City.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently researching the use of Deep Neural Networks and Machine Learning running on the latest Graphical Processing Units (GPU) for predicting time series data with financial applications. 
+
 
 ### Contact me
 
