@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-[email@domain.com](mailto:email@domain.com)
 ---
 
 I am a Data Scientist living in New York City.
